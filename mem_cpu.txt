@@ -1,0 +1,2 @@
+CPU |  sys       6%  |  user     10%  |   idle   1584%  |  wait      0%  |
+MEM |  tot    30.7G  |  free   19.3G  |   slab  369.3M  |  numnode    1  |
